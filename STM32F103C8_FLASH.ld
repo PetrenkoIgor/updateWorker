@@ -1,13 +1,4 @@
-/*
-*****************************************************************************
-**
-**  using the Atollic TrueSTUDIO(R) product. The use of this file together
-**  with other tools than Atollic TrueSTUDIO(R) is not permitted.
-**
-*****************************************************************************
-*/
 
-/* Entry Point */
 ENTRY(Reset_Handler)
 
 /* Highest address of the user mode stack */
