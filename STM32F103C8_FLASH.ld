@@ -7,7 +7,7 @@ _estack = 0x20005000;    /* end of RAM */
 _Min_Heap_Size = 0x200;      
 _Min_Stack_Size = 0x400; /* required amount of stack */
 
-/* Specify the memory areas */
+
 MEMORY
 {
 RAM (xrw)      : ORIGIN = 0x20000000, LENGTH = 20K
