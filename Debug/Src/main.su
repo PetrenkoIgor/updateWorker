@@ -1,0 +1,11 @@
+main.c:382:6:sendCommand	16	static
+main.c:389:6:sendData	16	static
+main.c:396:6:LCD_Goto	8	static
+main.c:428:6:LCD_Char	16	static
+main.c:406:6:LCD_Clear	16	static
+main.c:447:6:OLED_string	8	static
+main.c:456:6:OLED_num_to_str	8	static
+main.c:469:6:OLED_init	8	static
+main.c:599:6:SystemClock_Config	96	static
+main.c:533:5:main	48	static
+main.c:700:6:_Error_Handler	0	static
